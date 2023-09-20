@@ -211,8 +211,8 @@ header {
 
 .banner__img {
   position: absolute;
-  top: 0;
-  right: 0;
+  top: 100px;
+  right: 300px;
   z-index: -1;
 }
 
@@ -269,7 +269,7 @@ header {
     margin-right: 45px;
   }
   .banner__img {
-    width: 60%;
+    width: 36%;
   }
 }
 
